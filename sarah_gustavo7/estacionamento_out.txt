@@ -1,0 +1,18 @@
+Há vagas!
+Ha 9 vagas Privativas.
+Ha 9 vagas Comuns.
+Ha 10 vagas Prioritarias.
+Há 2 veiculo(s) no estacionamento.
+O ultimo carro que entrou foi: placa - b 
+ modelo - b Cor -b 
+ Proprietario -b 
+ 
+O ultimo carro que saiu foi: placa - 
+ modelo - 
+ Cor -  
+ Proprietario -  
+ 
+Há 2 veiculo(s) no estacionamento.
+Ha 9 vagas Privativas disponiveis e 1 Ocupadas.
+Ha 9 vagas Comuns disponiveis e 1 Ocupadas.
+Ha 10 vagas Prioritarias disponiveis e 0 Ocupadas.
